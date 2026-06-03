@@ -4,7 +4,7 @@
 
 Reading about Python only gets you so far. You get fluent by *doing*: solving problems, getting stuck, and working through real exercises. This list collects the resources worth your time, organized by how you like to practice and by skill level.
 
-*Maintained by [Reuven Lerner](https://lernerpython.com/). A few entries here are resources I created — Python Workout, Pandas Workout, Weekly Python Exercise, and Bamboo Weekly — included because they fit, alongside many I didn't. Suggestions and pull requests for anything I've missed are very welcome — see [Contributing](#contributing).*
+*Maintained by [Reuven Lerner](https://lernerpython.com/). A few entries here are resources I created — Python Workout, Pandas Workout, and Bamboo Weekly — included because they fit, alongside many I didn't. Suggestions and pull requests for anything I've missed are very welcome — see [Contributing](#contributing).*
 
 ## Contents
 
@@ -73,7 +73,10 @@ Free problem sets you can clone and work through.
 
 Books built around doing, not just reading.
 
-- [Python Workout](https://pythonworkout.com/) — 50 exercises to sharpen core Python skills (Manning).- [Pandas Workout](https://pandasworkout.com/) — 200 exercises for pandas and data analysis (Manning).- [Practice Makes Regexp](https://lerner.co.il/practice-makes-regexp/) — 50 regular-expression exercises, with Python solutions.- [Python Crash Course](https://ehmatthes.github.io/pcc_3e/) — Beginner book with "Try It Yourself" exercises and projects.
+- [Python Workout](https://pythonworkout.com/) — 50 exercises to sharpen core Python skills (Manning).
+- [Pandas Workout](https://pandasworkout.com/) — 200 exercises for pandas and data analysis (Manning).
+- [Practice Makes Regexp](https://lerner.co.il/practice-makes-regexp/) — 50 regular-expression exercises, with Python solutions.
+- [Python Crash Course](https://ehmatthes.github.io/pcc_3e/) — Beginner book with "Try It Yourself" exercises and projects.
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) — Free online; practical, project-driven practice.
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/) — Learn by typing and running exercises.
 
@@ -83,12 +86,13 @@ A steady drip of practice, delivered to your inbox.
 
 - [Python Morsels](https://www.pythonmorsels.com/) — Weekly Python exercises plus screencasts.
 - [PyBites](https://pybit.es/) — Python exercises and challenges ("Bites of Py").
-- [Weekly Python Exercise](https://www.weeklypythonexercise.com/) — 15-week cohorts of weekly exercises, a private forum, and live office hours.- [Bamboo Weekly](https://www.bambooweekly.com/about/) — Weekly pandas practice on real-world, current-events data, with detailed worked solutions.
+
 ## Data analysis & pandas practice
 
 Practice with real, messy data — the part of Python many learners most want to improve.
 
-- [Bamboo Weekly](https://www.bambooweekly.com/about/) — Weekly pandas exercises on current-events datasets, with full solutions; also listed in the [official pandas documentation](https://pandas.pydata.org/docs/getting_started/tutorials.html).- [Pandas Workout](https://pandasworkout.com/) — 200 pandas exercises spanning cleaning, reshaping, grouping, and more.- [guipsamora/pandas_exercises](https://github.com/guipsamora/pandas_exercises) — A free, popular set of pandas exercises by topic.
+- [Bamboo Weekly](https://www.bambooweekly.com/about/) — Weekly pandas practice on current-events datasets, with worked solutions; also listed in the [official pandas documentation](https://pandas.pydata.org/docs/getting_started/tutorials.html).
+- [guipsamora/pandas_exercises](https://github.com/guipsamora/pandas_exercises) — A free, popular set of pandas exercises by topic.
 - [pandas docs — Tutorials & Books](https://pandas.pydata.org/docs/getting_started/tutorials.html) — The official, community-curated learning list.
 - [Kaggle Learn — Pandas](https://www.kaggle.com/learn/pandas) — A free, interactive pandas micro-course.
 - [StrataScratch](https://www.stratascratch.com/) — Real data-science interview questions in Python and SQL.
