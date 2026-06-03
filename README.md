@@ -1,6 +1,6 @@
 # Awesome Python Practice [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of the best resources for **practicing** Python — exercises, challenges, katas, interactive platforms, books, and newsletters — with a dedicated section for **data analysis and pandas**.
+> A curated list of the best resources for **practicing** Python — exercises, challenges, katas, interactive platforms, books, and newsletters — with a dedicated section for **data analysis and Pandas**.
 
 Reading about Python only gets you so far. You get fluent by *doing*: solving problems, getting stuck, and working through real exercises. This list collects the resources worth your time, organized by how you like to practice and by skill level.
 
@@ -14,8 +14,7 @@ Reading about Python only gets you so far. You get fluent by *doing*: solving pr
 - [Beginner exercises](#beginner-exercises)
 - [Open-source exercise collections](#open-source-exercise-collections)
 - [Books with exercises](#books-with-exercises)
-- [Newsletters & weekly challenges](#newsletters--weekly-challenges)
-- [Data analysis & pandas practice](#data-analysis--pandas-practice)
+- [Data analysis & Pandas practice](#data-analysis--Pandas-practice)
 - [Interview practice](#interview-practice)
 - [Contributing](#contributing)
 - [License](#license)
@@ -40,7 +39,6 @@ Problem sets that push your algorithmic and problem-solving skills.
 - [CodinGame](https://www.codingame.com/) — Solve puzzles by writing code that drives games.
 - [Edabit](https://edabit.com/challenges/python3) — Bite-size challenges with instant feedback.
 - [HackerRank — Python](https://www.hackerrank.com/domains/python) — Categorized challenges from easy to hard.
-- [LeetCode](https://leetcode.com/) — The standard for algorithm and interview problems; full Python support.
 - [Project Euler](https://projecteuler.net/) — Math-flavored programming problems.
 
 ## Katas & deliberate practice
@@ -48,7 +46,7 @@ Problem sets that push your algorithmic and problem-solving skills.
 Short, repeatable exercises for honing fluency.
 
 - [Awesome Katas](https://github.com/gamontal/awesome-katas) — A curated list of code katas across languages.
-- [Codewars](https://www.codewars.com/?language=python) — Kata-based, ranked practice.
+- [PyBites](https://pybit.es/) — Python exercises and challenges ("Bites of Py").
 - [Python Morsels](https://www.pythonmorsels.com/) — Weekly exercises with thorough explanations (paid).
 
 ## Beginner exercises
@@ -74,29 +72,22 @@ Books and resources built around doing, not just reading.
 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) — Free online; practical, project-driven practice.
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/) — Learn by typing and running exercises.
-- [Pandas Workout](https://pandasworkout.com/) — 200 exercises for pandas and data analysis (Manning).
+- [Pandas Workout](https://Pandasworkout.com/) — 200 exercises for Pandas and data analysis (Manning).
 - [Practice Makes Regexp](https://lerner.co.il/practice-makes-regexp/) — 50 regular-expression exercises, with Python solutions.
 - [Python Crash Course](https://ehmatthes.github.io/pcc_3e/) — Beginner book with "Try It Yourself" exercises and projects.
 - [Python Workout](https://pythonworkout.com/) — 50 exercises to sharpen core Python skills (Manning).
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) — Rebuild real-world tools (a shell, a Git, a database…) from scratch.
 
-## Newsletters & weekly challenges
-
-A steady drip of practice, delivered to your inbox.
-
-- [PyBites](https://pybit.es/) — Python exercises and challenges ("Bites of Py").
-- [Python Morsels](https://www.pythonmorsels.com/) — Weekly Python exercises plus screencasts.
-
-## Data analysis & pandas practice
+## Data analysis & Pandas practice
 
 Practice with real, messy data — the part of Python many learners most want to improve.
 
-- [Bamboo Weekly](https://www.bambooweekly.com/about/) — Weekly pandas practice on current-events datasets, with worked solutions.
-- [Kaggle Learn — Pandas](https://www.kaggle.com/learn/pandas) — A free, interactive pandas micro-course.
+- [Bamboo Weekly](https://www.bambooweekly.com/about/) — Weekly Pandas practice on current-events datasets, with worked solutions.
+- [Kaggle Learn — Pandas](https://www.kaggle.com/learn/Pandas) — A free, interactive Pandas micro-course.
 - [StrataScratch](https://www.stratascratch.com/) — Real data-science interview questions in Python and SQL.
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday) — A weekly real dataset to practice on (R-origin, but the data is language-agnostic).
-- [guipsamora/pandas_exercises](https://github.com/guipsamora/pandas_exercises) — A free, popular set of pandas exercises by topic.
-- [pandas docs — Tutorials & Books](https://pandas.pydata.org/docs/getting_started/tutorials.html) — The official, community-curated learning list.
+- [guipsamora/Pandas_exercises](https://github.com/guipsamora/Pandas_exercises) — A free, popular set of Pandas exercises by topic.
+- [Pandas docs — Tutorials & Books](https://Pandas.pydata.org/docs/getting_started/tutorials.html) — The official, community-curated learning list.
 
 ## Interview practice
 
