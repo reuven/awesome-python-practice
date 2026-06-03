@@ -91,7 +91,7 @@ A steady drip of practice, delivered to your inbox.
 
 Practice with real, messy data — the part of Python many learners most want to improve.
 
-- [Bamboo Weekly](https://www.bambooweekly.com/about/) — Weekly pandas practice on current-events datasets, with worked solutions; also listed in the [official pandas documentation](https://pandas.pydata.org/docs/getting_started/tutorials.html).
+- [Bamboo Weekly](https://www.bambooweekly.com/about/) — Weekly pandas practice on current-events datasets, with worked solutions.
 - [Kaggle Learn — Pandas](https://www.kaggle.com/learn/pandas) — A free, interactive pandas micro-course.
 - [StrataScratch](https://www.stratascratch.com/) — Real data-science interview questions in Python and SQL.
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday) — A weekly real dataset to practice on (R-origin, but the data is language-agnostic).
