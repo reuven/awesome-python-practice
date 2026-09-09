@@ -29,6 +29,7 @@ In-browser, auto-graded, or mentored practice - great when you want immediate fe
 - [Exercism - Python track](https://exercism.org/tracks/python) - Free, with hundreds of exercises and volunteer mentoring.
 - [Futurecoder](https://futurecoder.io/) - Free, interactive intro with an in-browser debugger and hints.
 - [freeCodeCamp - Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - Free, project-based.
+- [Coddy](https://coddy.tech/landing/python) — Browser-based Python lessons and coding exercises for beginners.
 
 ## Coding challenges & competitive programming
 
