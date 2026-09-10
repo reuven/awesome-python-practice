@@ -28,6 +28,7 @@ In-browser, auto-graded, or mentored practice - great when you want immediate fe
 - [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3) - Interactive lessons (free tier available).
 - [Exercism - Python track](https://exercism.org/tracks/python) - Free, with hundreds of exercises and volunteer mentoring.
 - [Futurecoder](https://futurecoder.io/) - Free, interactive intro with an in-browser debugger and hints.
+- [PyRun](https://pyrun.in/) - Browser-based Python learning platform with interactive lessons, exercises, a terminal, SQL playground, and notebook. Python execution uses Pyodide.
 - [freeCodeCamp - Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - Free, project-based.
 
 ## Coding challenges & competitive programming
