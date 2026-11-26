@@ -87,6 +87,7 @@ Practice with real, messy data - the part of Python many learners most want to i
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - A weekly real dataset to practice on (R-origin, but the data is language-agnostic).
 - [guipsamora/Pandas_exercises](https://github.com/guipsamora/Pandas_exercises) - A free, popular set of Pandas exercises by topic.
 - [Pandas docs - Tutorials & Books](https://Pandas.pydata.org/docs/getting_started/tutorials.html) - The official, community-curated learning list.
+- [QueryCase](https://querycase.com) - Pandas and statistics practice framed as detective cases, with each step run and checked in the browser; the Python basics course is free.
 
 ## Interview practice
 
